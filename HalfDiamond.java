@@ -30,8 +30,8 @@ public class HalfDiamond {
 
 
 
-/* full diamond 
-public class HalfDiamond {
+// full diamond 
+/*public class HalfDiamond {
 
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
@@ -62,5 +62,4 @@ public class HalfDiamond {
 
     scanner.close();
   }
-}
-*/
+}*/
